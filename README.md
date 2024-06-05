@@ -15,3 +15,4 @@ This project implements a chatbot using the `langchain` and `sentence-transforme
 Ensure you have the required dependencies installed and set your HuggingFace API token before running the script.
 
 ---
+ Note : currently hugging_face.py is working but the other 2 bots namely bot_01.py and bot_02.py are not tested.
